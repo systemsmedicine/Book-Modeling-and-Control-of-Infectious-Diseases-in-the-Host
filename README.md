@@ -1,5 +1,7 @@
-# Modeling and Control of Infectious Diseases in The Host
-### With MATLAB and R
+# Modeling and Control of Infectious Diseases in The Host With MATLAB and R
+
+![Screenshot](book.png)
+
 
 ## Introduction
 
