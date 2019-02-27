@@ -1,3 +1,7 @@
+# R Codes for Chapter 3
+# This code was developed by Kinh Nguyen
+# You can also find at https://figshare.com/s/9f0c50984e470693839e
+
 # Materials
 # -------------------------------------------------------------------------
 install.packages("deSolve"); library("deSolve")  	# see Note 2
