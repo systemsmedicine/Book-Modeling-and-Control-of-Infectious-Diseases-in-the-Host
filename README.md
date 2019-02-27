@@ -1,6 +1,6 @@
 # Modeling and Control of Infectious Diseases in The Host 
 
-![](book.png | width=70)
+![screenshot](book.png)
 
 
 ## Introduction
@@ -23,5 +23,3 @@ This project is licensed under the Apache License 2.0.
 ## Acknowledgments
 To students and the members of the research group of Systems Medicine of Infectious Diseases, in particular, 
 Kinh Van Nguyenand Gustavo Hernandez Mejia. 
-
-
