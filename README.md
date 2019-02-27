@@ -1,6 +1,6 @@
 # Modeling and Control of Infectious Diseases in The Host 
 
-![Screenshot](book.png | width=50)
+![Screenshot](book.png | width=70)
 
 
 ## Introduction
