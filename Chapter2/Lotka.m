@@ -1,5 +1,5 @@
 %% Modeling and Control of Infectious Diseases in the Host with MATLAB and R
-%% 2.7 SIMULATING LOTKA–VOLTERRAMODEL
+%% 2.7 SIMULATING LOTKAâ€“VOLTERRA MODEL
 %% Page 30
 
 % Clearing window and memory
